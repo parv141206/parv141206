@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parv141206
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning Everything with JS
-- 💞️ I’m looking to collaborate on React , Express
+- 💞️ I’m looking to collaborate on React , Express and NEXT JS
 - 📫 How to reach me , Instagram @calligraphic_parv
 
 <!---
