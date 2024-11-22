@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃myself%20parv!&fontSize=90&fontColor=ffffff)
-<img align="right" height="400px" src="https://preview.redd.it/7z8nsbzsq2871.png?auto=webp&s=663a0cc383fd224164847d430353fdafe626ef26" />
+<img align="right" height="260px" src="https://preview.redd.it/7z8nsbzsq2871.png?auto=webp&s=663a0cc383fd224164847d430353fdafe626ef26" />
 
 # 🛠 I make simple wide ranging webapps which will save you time
 ### I use ARCH and neovim by the way 💪
