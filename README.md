@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=11ccff&height=150&section=header&text=😃myself%20parv!&fontSize=90&fontColor=ffffff)
 
 
-# 🤠 I make simple wide ranging webapps which will save you time 😄
-
+# 🤠 I make simple wide ranging webapps which will save you time
+## I use ARCH by the way
 ## 🚀 Skills!
 
 ### 🐱‍🏍 Languages
