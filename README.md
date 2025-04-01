@@ -15,8 +15,6 @@
 ![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-e34f26?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-00b4ab?style=for-the-badge&logo=dart&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![AngularJS](https://img.shields.io/badge/AngularJS-e23237?style=for-the-badge&logo=angularjs&logoColor=white) 
