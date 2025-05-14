@@ -3,6 +3,7 @@
 
 # 🛠 I make simple wide ranging webapps which will save you time
 ### I use ARCH and neovim by the way 💪
+### The days i dont commit are my exams stopping me :/
 ## 🚀 Skills!
 
 ### 🐱‍🏍 Languages and Tech Stack
